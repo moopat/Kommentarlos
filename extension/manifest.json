@@ -11,6 +11,10 @@
     {
       "matches": ["https://*.kleinezeitung.at/*"],
       "css": ["css/kleinezeitungat.css"]
+    },
+    {
+      "matches": ["https://*.krone.at/*"],
+      "css": ["css/kroneat.css"]
     }
   ]
 }

@@ -1,0 +1,21 @@
+/*
+ * Hide story comment count
+ */
+.social-toolbar__group-comments {
+    display: none!important;
+}
+
+/*
+ * Remove list of comments
+ */
+#comment-list {
+    display: none!important;
+}
+
+/*
+ * Remove comment count from teasers (also removes
+ * read count, but we can live with that)
+ */
+.count {
+    display: none!important;
+}
