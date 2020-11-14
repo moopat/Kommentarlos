@@ -15,6 +15,10 @@
     {
       "matches": ["https://*.krone.at/*"],
       "css": ["css/kroneat.css"]
+    },
+    {
+      "matches": ["https://*.oe24.at/*"],
+      "css": ["css/oe24at.css"]
     }
   ]
 }
