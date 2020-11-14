@@ -1,0 +1,13 @@
+/*
+ * Remove comment count from teasers
+ */
+.media-badge-comment-count, .commentCount {
+    display: none!important;
+}
+
+/*
+ * Hide comments from stories
+ */
+.article-comments {
+    display: none!important;
+}

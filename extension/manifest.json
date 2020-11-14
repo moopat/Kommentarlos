@@ -27,6 +27,10 @@
     {
       "matches": ["https://*.futurezone.at/*"],
       "css": ["css/futurezoneat.css"]
+    },
+    {
+      "matches": ["https://*.meinbezirk.at/*"],
+      "css": ["css/meinbezirkat.css"]
     }
   ]
 }
