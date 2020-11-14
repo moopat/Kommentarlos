@@ -1,0 +1,20 @@
+/*
+ * Hide comment count from story teaser
+ */
+.card__comments {
+    display: none!important;
+}
+
+/*
+ * Hide comments from story
+ */
+div.comments {
+    display: none!important;
+}
+
+/*
+ * Hide story actions (comment is one of them)
+ */
+.article-actions__three {
+    display: none!important;
+}

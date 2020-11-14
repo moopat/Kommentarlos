@@ -35,6 +35,10 @@
     {
       "matches": ["https://*.heute.at/*"],
       "css": ["css/heuteat.css"]
+    },
+    {
+      "matches": ["https://*.diepresse.com/*"],
+      "css": ["css/diepressecom.css"]
     }
   ]
 }
