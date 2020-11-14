@@ -1,0 +1,68 @@
+/*
+ * Hide the posting count on the article detail page
+ */
+.article-postingcount {
+    display: none!important;
+}
+
+/*
+ * Hide the postings section
+ */
+#story-community {
+    display: none;
+}
+
+/*
+ * Hide the posting count from the "article tools"
+ * on the left side of the screen
+ */
+li.story-tool-forum {
+    display: none!important;
+}
+
+/*
+ * Remove the posting count from story teasers
+ */
+.teaser-postingcount {
+    display: none!important;
+}
+
+/*
+ * Remove the posting count from live tickers
+ */
+.total-posting-count {
+    display: none!important;
+}
+
+div.postings {
+    display: none!important;
+}
+
+/*
+ * Remove the hint that tells you where the postings on
+ * a live ticker story are. Spoiler: they are gone now
+ */
+div.livereport-uihint {
+    display: none!important;
+}
+
+/*
+ * Hide live ticker comments
+ */
+div.livereport-forum-postinglist {
+    display: none!important;
+}
+
+/*
+ * Hide live ticker loading indicator
+ */
+div.loading-container {
+    display: none!important;
+}
+
+/*
+ * Hide live ticker posting box
+ */
+#postingbox-container {
+    display: none!important;
+}

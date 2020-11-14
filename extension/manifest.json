@@ -1,0 +1,12 @@
+{
+  "name": "Kommentarlos",
+  "version": "0.1",
+  "description": "Entferne Kommentare von Nachrichtenwebseiten",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://*.derstandard.at/*"],
+      "css": ["css/derstandardat.css"]
+    }
+  ]
+}
