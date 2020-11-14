@@ -7,6 +7,10 @@
     {
       "matches": ["https://*.derstandard.at/*"],
       "css": ["css/derstandardat.css"]
+    },
+    {
+      "matches": ["https://*.kleinezeitung.at/*"],
+      "css": ["css/kleinezeitungat.css"]
     }
   ]
 }

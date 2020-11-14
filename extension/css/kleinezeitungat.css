@@ -1,0 +1,20 @@
+/*
+ * Hide the comments section from news articles
+ */
+#comments-container {
+    display: none;
+}
+
+/*
+ * Hide all social share items from the left sidebar
+ */
+.so-share__row--left {
+    display: none!important;
+}
+
+/*
+ * Hide the comment count from teasers
+ */
+.articleicons__wrapper {
+    display: none;!important
+}
