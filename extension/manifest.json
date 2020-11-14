@@ -23,6 +23,10 @@
     {
       "matches": ["https://*.nachrichten.at/*"],
       "css": ["css/nachrichtenat.css"]
+    },
+    {
+      "matches": ["https://*.futurezone.at/*"],
+      "css": ["css/futurezoneat.css"]
     }
   ]
 }
