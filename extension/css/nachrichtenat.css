@@ -1,0 +1,30 @@
+/*
+ * Hide comment counts in teasers
+ */
+.mainTeaser__kommentar {
+    display: none!important;
+}
+
+.viererTeaser__kommentar {
+    display: none!important;
+}
+
+.dreierTeaser__kommentar {
+    display: none!important;
+}
+
+.dreierTeaserVertikal__kommentar {
+    display: none!important;
+}
+
+/*
+ * Hide comment count in left sidebar of story
+ * Also hides sharing options
+ */
+.artDetail__userOptions__item {
+    display: none!important;
+}
+
+#kommentarArt__outer {
+    display: none!important;
+}
