@@ -1,0 +1,27 @@
+/*
+ * Hide comment icon from teasers
+ */
+a.comments {
+    display: none!important;
+}
+
+/*
+ * Hide comment icon in left story sidebar
+ */
+a.story_social_bar_comments {
+    display: none!important;
+}
+
+/*
+ * Hide comments from story
+ */
+#story_comments {
+    display: none!important;
+}
+
+/*
+ * Hide comment button from story
+ */
+#story_comment_bubble {
+    display: none!important;
+}
