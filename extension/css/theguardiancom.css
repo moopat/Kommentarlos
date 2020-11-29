@@ -1,0 +1,20 @@
+/*
+ * Remove comment count from story lists
+ */
+.fc-trail__count--commentcount {
+    display: none!important;
+}
+
+/*
+ * Remove comment count from story sidebar
+ */
+#share-comment-counts {
+    display: none!important;
+}
+
+/*
+ * Remove comments from stories
+ */
+#comments {
+    display: none!important;
+}

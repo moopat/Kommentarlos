@@ -39,6 +39,10 @@
     {
       "matches": ["https://*.diepresse.com/*"],
       "css": ["css/diepressecom.css"]
+    },
+    {
+      "matches": ["https://*.theguardian.com/*"],
+      "css": ["css/theguardiancom.css"]
     }
   ]
 }
